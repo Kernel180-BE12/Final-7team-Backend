@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Final-7team-Backend.iml" filepath="$PROJECT_DIR$/.idea/Final-7team-Backend.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/aicontents.main.iml" filepath="$PROJECT_DIR$/.idea/modules/aicontents.main.iml" />
     </modules>
   </component>
 </project>
