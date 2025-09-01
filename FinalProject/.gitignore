@@ -4,6 +4,7 @@
 # Log files
 *.log
 logs/
+/test/
 
 # Package files
 *.jar
