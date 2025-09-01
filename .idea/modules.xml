@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Final-7team-Backend.iml" filepath="$PROJECT_DIR$/.idea/Final-7team-Backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fastapi/fastapi.iml" filepath="$PROJECT_DIR$/fastapi/fastapi.iml" />
     </modules>
   </component>
 </project>
