@@ -1,11 +1,13 @@
-typing~=3.7.4.3
-pip~=25.1.1
-attrs~=25.3.0
-DateTime~=5.5
-logging~=0.4.9.6
-distro~=1.9.0
-protobuf~=6.31.1
-pillow~=11.3.0
-asyncio~=3.4.3
-tornado~=6.5.1
-Jinja2~=3.1.6
+# FastAPI 서버 필수 라이브러리
+fastapi==0.110.0
+uvicorn[standard]==0.30.0
+pydantic==2.6.4
+
+# 환경 변수 관리 (선택)
+python-dotenv==1.0.1
+
+# 외부 API 호출 (선택)
+requests==2.32.2
+
+# HTML 템플릿 사용 시
+Jinja2==3.1.6
