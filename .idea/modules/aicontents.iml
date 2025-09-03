@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module version="4">
-  <component name="CheckStyle-IDEA-Module" serialisationVersion="2">
-    <option name="activeLocationsIds" />
+<module external.linked.project.id="aicontents" external.linked.project.path="$MODULE_DIR$/../../FinalProject" external.root.project.path="$MODULE_DIR$/../../FinalProject" external.system.id="GRADLE" external.system.module.group="com.softlabs" external.system.module.version="0.0.1-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../FinalProject">
+      <excludeFolder url="file://$MODULE_DIR$/../../FinalProject/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../FinalProject/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../FinalProject/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

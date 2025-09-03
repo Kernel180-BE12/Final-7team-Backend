@@ -171,3 +171,41 @@ node_modules/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# =================================================================
+# Additional Java/Spring Boot
+# =================================================================
+
+### Java Compiled Classes ###
+*.class
+
+### Spring Boot Additional ###
+.springjava
+*.jar.original
+
+### MyBatis ###
+*.xml.bak
+
+### Swagger ###
+swagger-ui/
+
+# =================================================================
+# Development Tools
+# =================================================================
+
+### JProfiler ###
+*.jprofiler
+
+### JRebel ###
+rebel.xml
+
+### JMeter ###
+*.jmx.bak
+
+# =================================================================
+# Project Specific
+# =================================================================
+
+### Oracle Connection ###
+tnsnames.ora
+sqlnet.ora
