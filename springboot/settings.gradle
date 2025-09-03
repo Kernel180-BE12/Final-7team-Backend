@@ -1,2 +1,1 @@
-rootProject.name = "Final-7team-Backend"
-include("springboot")
+rootProject.name = "springboot"
